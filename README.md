@@ -42,3 +42,6 @@ This project demonstrates the integration of generative AI into a web-based appl
 **Prashitha K.**
 
 GitHub: [Prashitha-08](https://github.com/Prashitha-08)
+## 📸 Project Preview
+
+![AI Assistant Demo](ai-assistant-demo.png)
