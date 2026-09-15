@@ -1,11 +1,44 @@
-<div align="center">
+# AI Assistant – Gemini Powered
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+An AI-powered conversational assistant built using the **Gemini API**, designed to provide intelligent, context-aware responses through a simple and user-friendly interface.
 
-  <h1>Built with AI Studio</h2>
+## 🚀 Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+* 💬 Conversational AI interaction
+* 🤖 Gemini-powered intelligent responses
+* ⚡ Fast and interactive user experience
+* 🖥️ Clean and simple interface
+* 🔄 Real-time response generation
+* 📱 User-friendly design
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 🛠️ Tech Stack
 
-</div>
+* **Frontend:** HTML, CSS, JavaScript
+* **AI Model:** Google Gemini API
+* **Development:** Google AI Studio
+* **Version Control:** Git & GitHub
+
+## 📌 Project Overview
+
+This project demonstrates the integration of generative AI into a web-based application. The assistant accepts user queries and uses the Gemini model to generate relevant responses, providing a practical example of building an AI-powered application.
+
+## 🎯 What I Built
+
+* Designed the conversational assistant interface
+* Integrated Gemini-powered AI responses
+* Implemented user interaction and response handling
+* Structured the application for a smooth conversational experience
+
+## 🔮 Future Improvements
+
+* Conversation history and memory
+* Voice-based interaction
+* Improved response personalization
+* User authentication
+* Deployment as a production-ready web application
+
+## 👩‍💻 Developer
+
+**Prashitha K.**
+
+GitHub: [Prashitha-08](https://github.com/Prashitha-08)
